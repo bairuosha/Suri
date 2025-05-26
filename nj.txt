@@ -1,2 +1,1 @@
-*Xu So Dieu Ky
-Suri:0.tcp.ap.ngrok.io:16202
+Suri:0.tcp.ap.ngrok.io:16202:0
