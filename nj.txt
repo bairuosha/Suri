@@ -1,2 +1,1 @@
-Suri:0.tcp.ap.ngrok.io:16202:0
-TEST:localhost:14444:0
+Suri:0.tcp.ap.ngrok.io:16202:0,TEST:localhost:14444:0
